@@ -6,17 +6,17 @@ Work in progress, not yet on npm.
 
 # Goals for Instant Photo Frame
 
-- [] Polaroid Film
-- [] Fuji Instax Square Film
-- [] Fuji Instax Wide Film
-- [] Fuji Instax Mini Film
+- [ ] Polaroid Film
+- [ ] Fuji Instax Square Film
+- [ ] Fuji Instax Wide Film
+- [ ] Fuji Instax Mini Film
 
 ## Strech Goals
 
-- [] Multiple frames for each film type.
-- [] Multiple colors for each film type.
+- [ ] Multiple frames for each film type.
+- [ ] Multiple colors for each film type.
 
 # Progress
 
-- [] Starting with polaroid film.
-  - [] Polaroid film styling.
+- [ ] Starting with polaroid film.
+  - [ ] Polaroid film styling.
