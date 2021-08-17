@@ -20,4 +20,7 @@ Work in progress, not yet on npm.
 # Progress
 
 - [x] Starting with polaroid film.
+  - [ ] Polaroid frame
+  - [ ] Ability to add image
+  - [ ] Ability to add text
   - [ ] Polaroid film styling.
