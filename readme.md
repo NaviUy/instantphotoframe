@@ -10,6 +10,7 @@ Work in progress, not yet on npm.
 - [ ] Fuji Instax Square Film
 - [ ] Fuji Instax Wide Film
 - [ ] Fuji Instax Mini Film
+- [ ] Documentation
 
 ## Strech Goals
 
@@ -18,5 +19,5 @@ Work in progress, not yet on npm.
 
 # Progress
 
-- [ ] Starting with polaroid film.
+- [x] Starting with polaroid film.
   - [ ] Polaroid film styling.
