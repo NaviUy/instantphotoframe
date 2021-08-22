@@ -20,9 +20,9 @@ Work in progress, not yet on npm.
 # Progress
 
 - [x] Starting with polaroid film.
-  - [ ] Polaroid frame
-  - [ ] Ability to add image
-  - [ ] Ability to add text
-  - [ ] Polaroid film styling.
+  - [x] Polaroid frame
+  - [x] Ability to add image
+  - [x] Ability to add text
+  - [x] Polaroid film styling.
 - [x] Install React and React-Dom.
 - [x] Install Storybook for viewing component while developing.
