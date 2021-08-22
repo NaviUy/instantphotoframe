@@ -26,3 +26,5 @@ Work in progress, not yet on npm.
   - [x] Polaroid film styling.
 - [x] Install React and React-Dom.
 - [x] Install Storybook for viewing component while developing.
+- [ ] Bundle using webpack.
+- [ ] First npm deployment.
