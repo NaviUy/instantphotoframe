@@ -1,5 +1,4 @@
 import polaroidFront from '../../frames/polaroid/polaroid-front.png'
-import testImage from '../../../local-test-images/demo.gif'
 import './styles.css'
 
 export const Polaroid = ({ imgurl, size=10, photoScale = 1, photoScaleX=1, photoScaleY=1, position=0, positionTop=0, positionLeft=0 }) => {

@@ -1,3 +1,5 @@
 /.storybook
 /node_modules
 /local-test-images
+.babelrc
+webpack.config.js
