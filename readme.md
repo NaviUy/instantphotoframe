@@ -8,7 +8,7 @@
 npm install -s instantphotoframe
 ```
 
-### In you're react component:
+### In your react component:
 
 ```
 import { Polaroid } from 'instantphotoframe'
