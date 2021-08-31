@@ -1,5 +1,6 @@
-import polaroidFront from '../../frames/polaroid/polaroid-front.png'
+import React from 'react'
 import './styles.css'
+import Image from '../../frames/polaroid/polaroid-front.png'
 
 export const Polaroid = ({ imgurl, size=10, photoScale = 1, photoScaleX=1, photoScaleY=1, position=0, positionTop=0, positionLeft=0 }) => {
 
@@ -20,7 +21,7 @@ export const Polaroid = ({ imgurl, size=10, photoScale = 1, photoScaleX=1, photo
     return (
     <>
         <div className="container" style={{transform: `scale(${size})`}}>
-            <img className="frame" src={ polaroidFront } style={{maxHeight: "1000px", maxWidth: "800px"}}></img>
+            <img className="frame" src={ Image } style={{maxHeight: "1000px", maxWidth: "800px"}}></img>
             <div className="image">
                 <img className="innerImage" src={ imgurl } style={{transform: `scale(${photoScale})`, objectPosition: `${position}`}}></img>
             </div>

@@ -1,8 +1,9 @@
 {
   "name": "instantphotoframe",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Instant film front-end component made easy.",
   "main": "./dist/index.js",
+  "module": "./dist/a4f376a2b553155f8133c9012fa54682.png",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
@@ -35,22 +36,25 @@
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
     "@babel/preset-react": "^7.14.5",
-    "@storybook/addon-actions": "^6.3.7",
-    "@storybook/addon-essentials": "^6.3.7",
-    "@storybook/addon-links": "^6.3.7",
-    "@storybook/react": "^6.3.7",
+    "@storybook/addon-actions": "^6.4.0-alpha.32",
+    "@storybook/addon-essentials": "^6.4.0-alpha.32",
+    "@storybook/addon-links": "^6.4.0-alpha.32",
+    "@storybook/builder-webpack5": "^6.4.0-alpha.32",
+    "@storybook/manager-webpack5": "^6.4.0-alpha.32",
+    "@storybook/react": "^6.4.0-alpha.32",
     "babel-loader": "^8.2.2",
     "css-loader": "^6.2.0",
+    "dotenv-webpack": "^7.0.3",
     "file-loader": "^6.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "style-loader": "^3.2.1",
+    "url-loader": "^4.1.1",
     "webpack": "^5.51.1",
     "webpack-cli": "^4.8.0"
   },
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  },
-  "dependencies": {}
+  }
 }
