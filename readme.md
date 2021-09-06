@@ -111,9 +111,9 @@ Example:
 - [x] Starting with polaroid film.
   - [x] Polaroid frame
   - [x] Ability to add image
-  - [x] Ability to add text
   - [x] Polaroid film styling.
 - [x] Install React and React-Dom.
 - [x] Install Storybook for viewing component while developing.
 - [x] Bundle using webpack.
 - [x] First npm deployment.
+- [ ] Polaroid Back-side
