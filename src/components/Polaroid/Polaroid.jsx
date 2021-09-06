@@ -85,9 +85,11 @@ export const Polaroid = ({ imgurl, size, photoScale = 1, photoScaleX=1, photoSca
 
     return (
     <>
-        <div className="instant-container" style={{maxHeight: `${frameSize.maxHeight}`, maxWidth: `${frameSize.maxWidth}`}}>
-            <img className="instant-frame" src={Image}></img>
-            <img className="instant-image" src={imgurl} style={{transform: `scale(${photoScale})`, objectPosition: `${position}`}}></img>
+        <div className="a-container">
+            <div className="instant-container" style={{maxHeight: `${frameSize.maxHeight}`, maxWidth: `${frameSize.maxWidth}`}}>
+                <img className="instant-frame" src={Image}></img>
+                <img className="instant-image" src={imgurl} style={{transform: `scale(${photoScale})`, objectPosition: `${position}`}}></img>
+            </div>
         </div>
     </>
     )
