@@ -1,3 +1,5 @@
+![Image of Example](https://i.imgur.com/tiO9q3w.png)
+
 # Using Instant Photo Frame
 
 ## Installation
@@ -34,7 +36,7 @@ or
 
 ```
 ...
-<Polaroid> imgurl="stockimage.com/thestockimage"
+<Polaroid imgurl="stockimage.com/thestockimage">
 ...
 
 ```
@@ -42,7 +44,7 @@ or
 ### Frame Size
 
 You can change the size of the frame!
-Ranging from a scale of 1 - 10 (1 being the smallest and 10 being the biggest).
+Ranging from a scale of 1 - 10 (1 being the smallest and 10 being the biggest).\
 Example:
 
 ```
@@ -54,7 +56,7 @@ Example:
 ### Image Size
 
 Your image might not fit into the frame! Therefore, you can resize the image inside of the frame.
-The scaling works by multiples. For example, having 2 as your input would give you 2x the size.
+The scaling works by multiples. For example, having 2 as your input would give you 2x the size.\
 Example:
 
 ```
@@ -63,7 +65,7 @@ Example:
 ...
 ```
 
-Alternatively, you can scale via X axis and Y axis also.
+Alternatively, you can scale via X axis and Y axis also.\
 Example:
 
 ```
@@ -75,7 +77,7 @@ Example:
 ### Image Position
 
 You can reposition the image inside the frame!
-The following example would move your image 3px to the left and up.
+The following example would move your image 3px to the left and up.\
 Example:
 
 ```
@@ -84,7 +86,7 @@ Example:
 ...
 ```
 
-Alternatively you can reposition using x and y axis also.
+Alternatively you can reposition using x and y axis also.\
 Example:
 
 ```
@@ -95,11 +97,11 @@ Example:
 
 # Goals for Instant Photo Frame
 
-- [ ] Polaroid Film
+- [50%] Polaroid Film
 - [ ] Fuji Instax Square Film
 - [ ] Fuji Instax Wide Film
 - [ ] Fuji Instax Mini Film
-- [ ] Documentation
+- [75%] Documentation
 
 ## Strech Goals
 
