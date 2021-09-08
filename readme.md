@@ -20,7 +20,7 @@ import { Polaroid } from 'instantphotoframe'
 
 ### Images
 
-You can add an image by importing it via JS or using a url.
+You can add an image by importing it via JS or using a url.\
 Example:
 
 ```
