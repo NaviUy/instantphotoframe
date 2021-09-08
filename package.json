@@ -1,6 +1,6 @@
 {
   "name": "instantphotoframe",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "Instant film front-end component made easy.",
   "main": "./dist/index.js",
   "module": "./dist/a4f376a2b553155f8133c9012fa54682.png",

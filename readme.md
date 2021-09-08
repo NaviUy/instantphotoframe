@@ -1,4 +1,4 @@
-![Image of Example](https://i.imgur.com/tiO9q3w.png)
+![Image of Example](https://i.imgur.com/HYQ3MwL.png)
 
 # Using Instant Photo Frame
 
@@ -20,7 +20,7 @@ import { Polaroid } from 'instantphotoframe'
 
 ### Images
 
-You can add an image by importing it via JS or using a url.\
+You can add an image by importing it via JS or using a url.
 Example:
 
 ```
