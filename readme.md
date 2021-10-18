@@ -91,7 +91,7 @@ Example:
 
 ```
 ...
-<Polaroid imgurl={Image} positionX="1.3" positionY="1.8"/>
+<Polaroid imgurl={Image} positionTop="1.3" positionLeft="1.8"/>
 ...
 ```
 
