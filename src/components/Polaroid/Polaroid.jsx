@@ -81,8 +81,6 @@ export const Polaroid = ({ imgurl, size, photoScale = 1, photoScaleX=1, photoSca
             }
     }
 
-    console.log(frameSize)
-
     return (
     <>
         <div className="a-container">
